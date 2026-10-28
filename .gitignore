@@ -1,0 +1,13 @@
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+
+# File teks/data sementara yang dihasilkan program eksekusi
+*.txt
+*.csv
+*.json
+
+# VS Code & OS files
+.vscode/
+Thumbs.db
+desktop.ini
